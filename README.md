@@ -1,19 +1,19 @@
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
-これは、次の教材で作られたサンプルアプリケーションです。
+これは、次の教材で作られたサンプルアプリケーションです。   
 [*Ruby on Rails チュートリアル: 実例を使って Rails を学ぼう*](http://railstutorial.jp/)
 [Michael Hartl](http://www.michaelhartl.com/) 著
 
 ## ライセンス
 
 [Ruby Rails チュートリアル](http://railstutorial.jp/)内ににあるすべてのソースコードは
-MITライセンスとBeerwareライセンスのもとに公開されています。
-詳細は[LICENSE.md](LICENSE.md)をご覧ください。
+MIT ライセンスと Beerware ライセンスのもとに公開されています。
+詳細は [LICENSE.md](LICENSE.md) をご覧ください。
 
 ## 使い方
 
 このアプリケーションを動かす場合は、まずはリポジトリを手元にクローンしてください。
-次に、次のコマンドで必要になるRuby Gemsをインストールします。
+次に、次のコマンドで必要になる Ruby Gems をインストールします。
 
 ```
 $ bundle install --without production
